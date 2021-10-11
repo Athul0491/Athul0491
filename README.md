@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Athul. <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h2>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Athul0491&label=Profile%20views&color=0e75b6&style=flat" alt="a-ma-n" /> </p> -->
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
