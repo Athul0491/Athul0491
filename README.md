@@ -17,9 +17,7 @@
 - 🔧 &nbsp; Git | VsCode | Heroku | Netlify
 
 <br/>
-
 <!-- [![Athul0491's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Athul0491&show_icons=true)](https://github.com/Athul0491) -->
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p >
