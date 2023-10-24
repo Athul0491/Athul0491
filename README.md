@@ -12,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Flask 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Node.js | Express
+- 💻 &nbsp; Python | Flask | Django | Fast API
+- 🌐 &nbsp; TypeScript | ReactJS | Node.js | Express | tRPC
 - 🛢 &nbsp; Postgresql | MongoDB
-- 🔧 &nbsp; Git | VsCode | Heroku | Netlify
+- 🔧 &nbsp; Git | VsCode | Heroku | Netlify | Vercel
 
 <br/>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Athul0491&theme=radical&show_icons=true&hide=Jupyter%20Notebook" display=block width=50% height=auto alt="1">-->
