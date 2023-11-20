@@ -16,6 +16,7 @@
 - 🌐 &nbsp; TypeScript | ReactJS | Node.js | Express | tRPC
 - 🛢 &nbsp; Postgresql | MongoDB
 - 🔧 &nbsp; Git | VsCode | Heroku | Netlify | Vercel
+- 🐳 &nbsp; Docker | Kubernetes | Golang
 
 <br/>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Athul0491&theme=radical&show_icons=true&hide=Jupyter%20Notebook" display=block width=50% height=auto alt="1">-->
