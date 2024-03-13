@@ -5,12 +5,13 @@
 <div align='center'>
   </p>
 
-Glad to see you here! I'm Athul Thulasidasan, a **Software Engineer**👨🏻‍💻with a strong passion for **Product Thinking** and **open-source**. <br/>
-With a knack for building **event-driven architecture**, I balance code with **chess** ♟️ and find peace in a sip of **tea** 🍵 and **music** 🎙️. 
+Glad to see you here! I'm Athul Thulasidasan, a **Software Engineer**👨🏻‍💻with a strong passion for <br/>
+**Product Thinking** and **open-source**. With a knack for building **event-driven architecture**,  <br/>
+I balance code with **chess** ♟️ and find peace in a sip of **tea** 🍵 and **music** 🎙️. 
   
 </div>
 
-<div>
+<div align='center'>
 
   <h3>🛠 Stack</h3>   
   languages: python, typeScript <br/>
