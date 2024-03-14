@@ -19,7 +19,7 @@ I balance code with **chess** ♟️ and find peace in a sip of **tea** 🍵 and
   { "languages": "python", "typeScript" }
   { "frameworks": "flask", "django", "fast API", "nextJS", "node.js", "express", "tRPC" }
   { "containers": "docker", "kubernetes" }
-  { "exploring": "rust", "golang", "llm" }
+  { "exploring": "rust", "golang", "open-source" }
 ```
   
   
