@@ -15,10 +15,12 @@ I balance code with **chess** ♟️ and find peace in a sip of **tea** 🍵 and
 
   <h3>🛠 Tech Stack</h3>
   
-  `{ "languages": python, typeScript }` <br/>
-  `{ "frameworks": flask, django, fast API, nextJS, node.js, express, tRPC }` <br/>
-  `{ "containers": docker, kubernetes }`<br/>
-  `{ "exploring": rust, golang }`
+  ```json
+  { "languages": "python", "typeScript" }
+  { "frameworks": "flask", "django", "fast API", "nextJS", "node.js", "express", "tRPC" }
+  { "containers": "docker", "kubernetes" }
+  { "exploring": "rust", "golang", "llm" }
+```
   
   
 </div>
