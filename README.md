@@ -1,6 +1,5 @@
 <!--![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)-->
 <!--### Hey there! I'm Athul.  <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">  ###-->
-<img align='center' src = "https://svgshare.com/i/14Hz.svg"/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Athul0491&label=Profile%20views&color=0e75b6&style=flat" alt="a-ma-n" /> </p> -->
 <div align='center'>
   </p>
