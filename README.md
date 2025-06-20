@@ -40,7 +40,7 @@ I balance code with **chess** ♟️ and find peace in a sip of **tea** 🍵 and
 <p >
   
 ### 🤝🏻 Connect with Me ###
-<a href="https://www.linkedin.com/in/athul-tulasidasan-4901/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Athul%20Thulasidasan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/athul-thulasidasan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Athul%20Thulasidasan-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Athul0491"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Athul%20Thulasidasan-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:athulrthulasidasan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Athul%20Thulasidasan-blue?style=flat-square&logo=Gmail"></a>
   <br/>
