@@ -3,28 +3,36 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Athul0491&label=Profile%20views&color=0e75b6&style=flat" alt="a-ma-n" /> </p> -->
 <div align='center'>
   </p>
+<h2> Hi, I'm Athul Thulasidasan! 👨🏻‍💻</h2>
 
-Glad to see you here! I'm Athul Thulasidasan, a **Software Engineer**👨🏻‍💻with a strong passion for <br/>
-**Product Thinking** and **open-source**. With a knack for building **event-driven architecture**,  <br/>
-I balance code with **chess** ♟️ and find peace in a sip of **tea** 🍵 and **music** 🎙️. 
-  
+### **Software Engineer | Distributed Systems & AI Architect** <br/>
+I build systems that think, scale, and move data with precision. My work focuses on the intersection of **Event-Driven Architecture**, **AI Reasoning**, and **Scalable Infrastructure**. Whether it's crafting "Time-Travel" data replays or deep Knowledge Graphs for AI Agents, I bridge the gap between production-grade system design and high-impact product innovation.
 </div>
-
 <div align='center'>
 
-  <h3>🛠 Tech Stack</h3>
-  
-  ```json
-  "languages": ["Python", "TypeScript", "SQL", "HTML/CSS"],
-  "frameworks": ["Flask", "Django", "FastAPI", "Next.js", "Node.js", "Express", "tRPC"],
-  "containers": ["Docker", "Kubernetes"],
-  "tools": ["Git", "CI/CD", "Supabase", "PostgreSQL", "Kafka", "Flink"],
-  "exploring": ["Rust", "Go", "Open Source", "LLMs", "WebRTC"]
-```
-  
-  
+### 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, SQL, Rust (Exploring), Go (Exploring) |
+| **Backend / Systems** | FastAPI, Django, Node.js, gRPC, Protobuf, Kafka, Redis Streams |
+| **AI / Data** | LlamaIndex, Llama 3, Knowledge Graphs (AST), Pandas, Scikit-learn |
+| **Infrastructure** | Docker, Kubernetes, CI/CD, Supabase, PostgreSQL, Flink |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+
 </div>
- 
+
+  
+<div align=''>
+   <p>
+<h3> 🧠 Current Focus & Research </h3>
+
+- **Data Engineering:** Designing high-throughput CDC pipelines and "Time-Travel" event replay engines for seamless system migrations
+- **Reasoning Models:** Implementing recursive latent state updates in tiny networks (TRM) to explore iterative reasoning efficiency
+- **Production ML:** Engineering end-to-end recommendation pipelines with Kafka streaming, automated retraining, and real-time Prometheus monitoring
+ </p>
+
+</div> 
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Athul0491&theme=radical&show_icons=true&hide=Jupyter%20Notebook" display=block width=50% height=auto alt="1">-->
 <p align="center">
