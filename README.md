@@ -17,7 +17,7 @@ I build systems that think, scale, and move data with precision. My work focuses
 | **Languages** | Python, TypeScript, SQL, Rust (Exploring), Go (Exploring) |
 | **Backend / Systems** | FastAPI, Django, Node.js, gRPC, Protobuf, Kafka, Redis Streams |
 | **AI / Data** | LlamaIndex, Llama 3, Knowledge Graphs (AST), Pandas, Scikit-learn |
-| **Infrastructure** | Docker, Kubernetes, CI/CD, Supabase, PostgreSQL, Flink |
+| **Infrastructure** | Docker, Kubernetes, CI/CD, MongoDB, PostgreSQL, Flink |
 | **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
 
 </div>
