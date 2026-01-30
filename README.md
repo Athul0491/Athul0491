@@ -35,9 +35,9 @@ I build systems that think, scale, and move data with precision. My work focuses
 </div> 
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Athul0491&theme=radical&show_icons=true&hide=Jupyter%20Notebook" display=block width=50% height=auto alt="1">-->
-<p align="center">
+<!-- <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Athul0491&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=stars&hide_rank=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Athul0491&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=tex,css,php,html&exclude_repo=pokemon-go-api,mbta">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Athul0491&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=tex,css,php,html&exclude_repo=pokemon-go-api,mbta"> -->
 <!--   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Athul0491&theme=radical&hide_border=true&background=FFFFFF00"> -->
   <br>
   <br>
