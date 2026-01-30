@@ -6,7 +6,7 @@
 <h2> Hi, I'm Athul Thulasidasan! 👨🏻‍💻</h2>
 
 ### **Software Engineer | Distributed Systems & AI Architect** <br/>
-I build systems that think, scale, and move data with precision. My work focuses on the intersection of **Event-Driven Architecture**, **AI Reasoning**, and **Scalable Infrastructure**. Whether it's crafting "Time-Travel" data replays or deep Knowledge Graphs for AI Agents, I bridge the gap between production-grade system design and high-impact product innovation.
+I build backend systems that move data reliably at scale. My work sits at the intersection of **event-driven architecture**, **AI reasoning**, and **cloud-native infrastructure** — from "time-travel" event replays and CDC engines to knowledge-graph-powered AI agents.
 </div>
 <div align='center'>
 
@@ -25,7 +25,7 @@ I build systems that think, scale, and move data with precision. My work focuses
   
 <div align=''>
    <p>
-<h3> 🧠 Current Focus & Research </h3>
+<h3> 🧠 What I'm Currently Building </h3>
 
 - **Data Engineering:** Designing high-throughput CDC pipelines and "Time-Travel" event replay engines for seamless system migrations
 - **Reasoning Models:** Implementing recursive latent state updates in tiny networks (TRM) to explore iterative reasoning efficiency
@@ -52,7 +52,7 @@ I build systems that think, scale, and move data with precision. My work focuses
 <a href="https://twitter.com/Athul0491"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Athul%20Thulasidasan-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:athulrthulasidasan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Athul%20Thulasidasan-blue?style=flat-square&logo=Gmail"></a>
   <br/>
-feel free to connect with me! Let's discuss ideas, collaborate, or just chat about tech and innovation. 😊
+Feel free to reach out — always happy to chat about backend systems, data infrastructure, or applied AI 😊
 
 </p>
 
