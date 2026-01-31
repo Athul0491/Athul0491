@@ -6,7 +6,7 @@
 <h2> Hi, I'm Athul Thulasidasan! 👨🏻‍💻</h2>
 
 ### **Software Engineer | Distributed Systems & AI Architect** <br/>
-I build backend systems that move data reliably at scale. My work sits at the intersection of **event-driven architecture**, **AI reasoning**, and **cloud-native infrastructure** — from "time-travel" event replays and CDC engines to knowledge-graph-powered AI agents.
+I build backend systems that move data reliably at scale. My work sits at the intersection of **event-driven architectures**, **data/ML pipelines**, and **applied LLMs** — from “time-travel” CDC engines and real-time data pipelines to reasoning-focused LLM applications.
 </div>
 <div align='center'>
 
