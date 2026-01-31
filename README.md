@@ -5,7 +5,7 @@
   </p>
 <h2> Hi, I'm Athul Thulasidasan! 👨🏻‍💻</h2>
 
-### **Software Engineer | Distributed Systems & AI Architect** <br/>
+### **Software Engineer | Backend & Distributed Systems  | Data/ML & LLM Systems** <br/>
 I build backend systems that move data reliably at scale. My work sits at the intersection of **event-driven architectures**, **data/ML pipelines**, and **applied LLMs** — from “time-travel” CDC engines and real-time data pipelines to reasoning-focused LLM applications.
 </div>
 <div align='center'>
